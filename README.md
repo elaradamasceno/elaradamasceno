@@ -2,8 +2,3 @@
 
 ### Hello, Devs! 👋
 
-<!--
-
-I'm Front-End Developer
-
--->
