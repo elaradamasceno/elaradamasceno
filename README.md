@@ -1,4 +1,7 @@
 # Elara Damasceno Leme
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/ElaraDamasceno)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elara-damasceno-1a726885/)](https://www.linkedin.com/in/elara-damasceno-1a726885/)
+<!-- ![](https://komarev.com/ghpvc/?username=elaradamasceno&color=blue) -->
 
 ### Hello, Devs! 👋
 
@@ -20,11 +23,6 @@ I'm Front-End Developer 👩🏻‍💻
 
 <!-- ![Elara GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaraDamasceno&show_icons=true&theme=tokyonight) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaraDamasceno&layout=compact&theme=tokyonight)](https://github.com/ElaraDamasceno) 
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/ElaraDamasceno)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elara-damasceno-1a726885/)](https://www.linkedin.com/in/elara-damasceno-1a726885/)
-![](https://komarev.com/ghpvc/?username=elaradamasceno&color=blue)
 
 
 
