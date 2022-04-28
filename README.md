@@ -18,7 +18,7 @@ I'm Front-End Developer 👩🏻‍💻
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" /> |
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
-![Elara GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaraDamasceno&show_icons=true&theme=tokyonight)
+<!-- ![Elara GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaraDamasceno&show_icons=true&theme=tokyonight) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaraDamasceno&layout=compact&theme=tokyonight)](https://github.com/ElaraDamasceno)
 
 
